@@ -1,0 +1,4 @@
+{
+    "python.analysis.extraCommitChars": true,
+    "python.languageServer": "Pylance"
+}
